@@ -2,28 +2,33 @@
   <a href="https://github.com/HetShah24-06"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Het%20Shah&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%C2%B7%20I%20build%20the%20APIs%20behind%20the%20interface&descSize=24&descAlignY=64" width="100%" alt="Het Shah, Full Stack Developer" /></a>
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+I+build+the+APIs+behind+the+interface.;%3E+Full+Stack+%7C+React+%2B+Node+%2B+TypeScript.;%3E+AI-powered+apps+with+Gemini+%26+RAG." width="100%" alt="I build the APIs behind the interface" />
 </p>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/hetshah2406"><img src="https://img.shields.io/badge/LinkedIn-A21517?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://het-shah-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-A21517?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="mailto:hetshah1324@gmail.com"><img src="https://img.shields.io/badge/Email-A21517?style=for-the-badge" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/hetshah2406"><img src="https://img.shields.io/badge/LinkedIn-A21517?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://het-shah-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-A21517?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:hetshah1324@gmail.com"><img src="https://img.shields.io/badge/Email-A21517?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/3%2B-years_experience-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="3+ years experience" />
   <img src="https://img.shields.io/badge/8%2B-REST_APIs_built-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="8+ REST APIs built" />
   <img src="https://img.shields.io/badge/3.50-GPA_Dean%27s_Honours_List-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="3.50 GPA, Dean's Honours List" />
 </p>
+
 ## 🧬 about
+
 ```python
 me = {
     "does":     "Full Stack Developer — I build the APIs behind the interface",
     "based":    "Greater Toronto Area, Canada",
-    "was":      "Full Stack Developer, Consultant @ Void Enterprise Inc.",
+    "now":      "Full Stack Developer, Consultant @ Void Enterprise Inc.",
     "degree":   "PG Certificate, IT Solutions, Humber Polytechnic · BE, Computer Engineering",
     "learning": "RAG, AI agents, and LLM-powered apps",
     "speaks":   ["English", "Hindi", "Gujarati"],
     "pronouns": "he/him",
 }
 ```
+
 <details>
 <summary><b>🌱 how I got here. click for the short version</b></summary>
 <br />
@@ -33,7 +38,9 @@ me = {
   <tr><td><b>2025</b></td><td>Graduated Humber, GPA 3.50/4.00, Dean's Honours List · Led the RewardsX / MerchantX capstone with Credwise Financial Inc. · Full Stack Developer, Consultant @ Void Enterprise Inc.</td></tr>
 </table>
 </details>
+
 ## 💼 experience
+
 <table>
   <tr>
     <td width="36%" valign="top"><b>Full Stack Developer, Consultant (Contract)</b><br /><sub>Void Enterprise Inc., GTA (Remote) · Sep 2025 – Present</sub></td>
@@ -41,18 +48,20 @@ me = {
   </tr>
   <tr>
     <td width="36%" valign="top"><b>Software Engineer Intern</b><br /><sub>Void Enterprise Inc. · Jul 2024 – Feb 2025</sub></td>
-    <td valign="top">Shipped full-stack features and APIs, working across the stack from UI to database.</td>
+    <td valign="top">Built React websites and Node.js APIs, maintained the PostgreSQL database, fixed bugs, and wrote Jest tests.</td>
   </tr>
   <tr>
     <td width="36%" valign="top"><b>Web Developer Intern</b><br /><sub>KashCandi Technology Solutions, Vadodara, India · Feb 2022 – Jul 2023</sub></td>
-    <td valign="top">Built and maintained web apps and features for clients.</td>
+    <td valign="top">Built front-end features with HTML, CSS, JavaScript, and React on a MySQL back end; did manual testing and bug fixes with Git / GitHub.</td>
   </tr>
   <tr>
     <td width="36%" valign="top"><b>Web Developer Intern</b><br /><sub>CODEMASTR APPS, Vadodara, India · Dec 2021 – Feb 2022</sub></td>
     <td valign="top">Built web features and learned the craft — my first dev role.</td>
   </tr>
 </table>
+
 ## 🚀 projects
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -87,12 +96,17 @@ me = {
     </td>
   </tr>
 </table>
+
 ## 🧰 stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,mongodb,mysql,java,docker,git,github,aws,vscode&perline=14&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,nestjs,postgres,mongodb,mysql,java,docker,jest,githubactions,git,github,aws,vscode&perline=9&theme=dark" alt="Tech stack" />
 </p>
+
 <p align="center"><b>Working on something cool? I'd love to hear about it.</b></p>
+
 <p align="center">
   <a href="mailto:hetshah1324@gmail.com"><img src="https://img.shields.io/badge/say_hi-A21517?style=for-the-badge" alt="Email me" /></a>
 </p>
+
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:A21517,100:0A0A0A&height=90&section=footer&text=let%27s%20build%20something%20real&fontSize=30&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="Let's build something real" /></p>
